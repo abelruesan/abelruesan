@@ -11,3 +11,30 @@ I am a first year student of Electronic, Industrial and Automatic Engineering at
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I love 🎵 listening to music, 🎾​ doing sports and 📖 reading science books.
 
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</span>
+
+## GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=abelruesan&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/abelruesan)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=abelruesan&theme=algolia)](https://github.com/valentinawerle)
+</div>
+
