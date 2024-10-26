@@ -34,7 +34,11 @@ I am a first year student of Electronic, Industrial and Automatic Engineering at
 
 ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=abelruesan&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/abelruesan)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=abelruesan&theme=algolia)](https://github.com/valentinawerle)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=abelruesan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abelruesan&theme=algolia&hide_border=false)<br/>
+	
 </div>
+
 
