@@ -4,7 +4,7 @@
 
 I am a first year student of Electronic, Industrial and Automatic Engineering at the University of Valladolid. I am expanding my knowledge in back-end development and electronics, and I am part of the VallRacing Team. I love learning, researching and building new and creative things.
 - 🚀​ I’m currently learning ...
-  - C
+  - PyTorch
   - Altium
   - Logic circuits
 - ​⚙️​ I’m looking forward to collaborate on open source projects.
